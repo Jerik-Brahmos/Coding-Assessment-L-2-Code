@@ -11,7 +11,7 @@ The product information is fetched from an API.
 ### Responsiveness: 
 The website is designed to be responsive, ensuring that it looks great on all devices, including desktops, tablets, and mobile phones.
 
-## Technologies Used
+### Technologies Used
 - HTML
 - CSS
 - JavaScript
