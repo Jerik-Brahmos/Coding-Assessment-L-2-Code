@@ -1,4 +1,6 @@
 ##Simple E-Commerce Store
+
+
 This is a simple e-commerce website featuring a variety of products for men, women, and kids. The website is designed to be responsive and user-friendly, with a tab-switching layout that allows users to easily navigate between different product categories.
 
 ##Features
