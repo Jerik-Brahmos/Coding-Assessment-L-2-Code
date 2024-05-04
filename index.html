@@ -1,0 +1,43 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+        </style>
+    <title>Product Catalog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>SELECT YOUR CHOICE</h1>
+        <nav>
+            <ul>
+                <li class="option men selected" data-category="Men">
+                    <img src="assets/men.png" alt="Men" class="option-img">
+                    <p>Men</p>
+                </li>
+                <li class="option women" data-category="Women">
+                    <img src="assets/women.png" alt="Women" class="option-img">
+                    <p>Women</p>
+                </li>
+                <li class="option kids" data-category="Kids">
+                    <img src="assets/kids.png" alt="Kids" class="option-img">
+                    <p>Kids</p>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="product-grid">
+            <!-- product cards will be rendered here -->
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+
+</html>
